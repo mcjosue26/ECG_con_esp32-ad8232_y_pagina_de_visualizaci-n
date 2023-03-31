@@ -3,3 +3,5 @@ Proyecto final de Telemedicina. Constituye un sistema de adquisición de datos p
 
 * Para ejecutar el servidor: Instalar Node JS para poder importar los módulos mediante el comando "npm install".
 * La carpeta ecg contiene el archivo "ecg.ino" para programar el ESP32 mediante el IDE Arduino.
+
+*Subir 
